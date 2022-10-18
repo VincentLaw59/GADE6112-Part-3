@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XAZF4RVoE5e+QnSsymZbDbxetty13SrgqqJ3DiP7FbJcp5D1hSyqGTi5Jx7DJnZzCW0JrhkLGl58C7Y64p/BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theyo\\source\\repos\\GADE6112-Part-3\\Gade-1B-part-2\\Gade 1B part 1\\Gade 1B part 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theyo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
