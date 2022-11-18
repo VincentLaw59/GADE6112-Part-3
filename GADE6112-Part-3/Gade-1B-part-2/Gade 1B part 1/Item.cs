@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    public abstract class Item: Tile
+    abstract class Item : Tile
     {
-        public Item(int X, int Y) : base(X, Y)
+        public Item(int x,int y): base(x, y)
         {
 
         }
