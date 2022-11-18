@@ -1,4 +1,4 @@
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
     internal static class Program
     {
@@ -8,8 +8,10 @@ namespace Gade_1B_part_1
         [STAThread]
         static void Main()
         {
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmGame());
+            Application.Run(new Form1());
         }
     }
 }

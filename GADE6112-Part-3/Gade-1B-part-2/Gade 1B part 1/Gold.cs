@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    internal class Gold: Item
+    internal class Gold : Item
     {
         private int goldAmount;
         private Random rand;
@@ -20,7 +20,7 @@ namespace Gade_1B_part_1
 
         public override string ToString()
         {
-            return "Something";
+            return GetType().Name;
         }
     }
 }

@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    internal class Obstacle : Tile
+    internal class Obstacle: Tile
     {
-        public Obstacle(int x, int y) : base(x, y)
+        public Obstacle(int x, int y): base(x, y)
         {
-            
-        }
-        
+
+        } 
     }
 }

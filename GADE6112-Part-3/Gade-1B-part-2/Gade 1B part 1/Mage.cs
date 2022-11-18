@@ -4,30 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    class Mage: Enemy
+    internal class Mage : Enemy
     {
-        public Mage(int x, int y, int hp, int maxHp, int damage, char character ) : base(x, y, character)
+        public Mage(int x, int y, char character = 'M', int damage = 5, int startHP = 5): base(x, y, character, damage, startHP)
         {
-            hp = 5;
-            damage = 5;
+            GoldPurse = 3;
+        }
+
+        public override void Loot(Character killedCharacter)
+        {
+            goldPurse += killedCharacter.GoldPurse;
         }
 
         public override MovementEnum ReturnMove(MovementEnum move = MovementEnum.NoMovement)
         {
-            return 0; 
+            return (MovementEnum)0;
         }
 
         public override bool CheckRange(Character target)
         {
-            int distanceX = Math.Abs(target.X - X);
-            int distanceY = Math.Abs(target.Y - Y);
-            int totalDistance = distanceX + distanceY;
+            //Math.Abs((target.x - x) + (target.y - y));
 
-            if (totalDistance <= 1)
+            if (((Math.Abs(target.X - x) < 2) && (Math.Abs(target.Y - y) < 2)) && (Math.Abs((target.X - x) + (target.Y - y)) < 3))
+            {
                 return true;
+            }
             else return false;
+
         }
     }
 }

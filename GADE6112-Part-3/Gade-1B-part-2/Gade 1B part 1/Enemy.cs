@@ -4,28 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    public abstract class Enemy : Character
+    abstract class Enemy: Character
     {
-        protected Enemy(int x, int y, char character) : base(x, y, character)
-        {
-        }
-
         protected Random random = new Random();
-        //protected int random;
-        //public int Random { get { return random; } set { random = value; } }
 
-        public Enemy(int x, int y, int damage, char character): base(x, y, character)
+        public Enemy(int x,int y, char character, int damage, int startHP) : base(x, y, character)
         {
-           
-        }
-          
-       public override string ToString()
-        {
-            return $"{this.GetType().Name} at [{x}, {y}] ({damage})";
+            Damage = damage;
+            HP = startHP;
+            MaxHp = startHP;
         }
 
+        public override string ToString()
+        {
 
+            if (Weapon == null)
+            {
+                return "Barehanded: " + GetType().Name + " (" + HP + "/" + MaxHp + "HP) at " + "[" + X + "," + Y + "](" + Damage + " DMG)\n\n";
+            }
+            else
+            {
+                return "Equipped: " + GetType().Name + " (" + HP + "/" + MaxHp + "HP) at [" + X + "," + Y + "] with " + Weapon.WeaponType
+                            + "\n( " + Weapon.Durability + " Durability | " + Weapon.Damage + " Damage )\n\n";
+            }
+        }
     }
 }

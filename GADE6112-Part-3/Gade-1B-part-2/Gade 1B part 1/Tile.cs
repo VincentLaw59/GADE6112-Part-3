@@ -4,28 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gade_1B_part_1
+namespace GADE6112_POE
 {
-    public abstract class Tile
+    abstract internal class Tile
     {
-        //Pos (x, y)
         protected int x;
         protected int y;
 
         public int X { get { return x; } set { x = value; } }
         public int Y { get { return y; } set { y = value; } }
-
-        //Tile identifier
+        
         public enum TileType
         {
-            Hero,
+            Hero = 1,
             Enemy,
             Gold,
-            Weapons,
-            EmptyTile
+            Weapon
         }
 
-        //Constructor
         public Tile(int x, int y)
         {
             this.x = x;
