@@ -15,7 +15,7 @@ namespace GADE6112_POE
         public char symbol;
 
         protected int goldPurse;
-        protected Weapon weapon;
+        protected Weapon ?weapon;
         
         public Tile[] vision = new Tile[5];
 
@@ -23,7 +23,7 @@ namespace GADE6112_POE
         public int MaxHp {get { return maxHp; } set { maxHp = value; } }
         public int Damage { get { return damage; } set { damage = value; } }
         public int GoldPurse { get { return goldPurse; } set { goldPurse = value; } }
-        public Weapon Weapon { get { return weapon; } set { weapon = value; } }
+        public Weapon Weapon { get { return weapon!; } set { weapon = value; } }
         
         public enum MovementEnum
         {
@@ -74,7 +74,7 @@ namespace GADE6112_POE
 
         public virtual bool CheckRange(Character target)
         {
-            if (DistanceTo(target) <= weapon.Range)
+            if (DistanceTo(target) <= weapon!.Range)
             {
                 //within range of weapon
                 return true;

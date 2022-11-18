@@ -147,7 +147,7 @@ namespace GADE6112_POE
                 if (gameEngine.GameMap.Enemies[k].isDead() == true)
                 {
                     gameEngine.GameMap.gameMap[gameEngine.GameMap.Enemies[k].X, gameEngine.GameMap.Enemies[k].Y] = new EmptyTile(gameEngine.GameMap.Enemies[k].X, gameEngine.GameMap.Enemies[k].Y);
-                    gameEngine.GameMap.Enemies[k] = null;
+                    gameEngine.GameMap.Enemies[k] = null!;
                 }
             }
         }

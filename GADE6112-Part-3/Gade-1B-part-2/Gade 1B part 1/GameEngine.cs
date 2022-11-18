@@ -205,7 +205,7 @@ namespace GADE6112_POE
             }
 
             var mapReturned = Newtonsoft.Json.JsonConvert.DeserializeObject<Map>(data, jsonSettings);
-            gameMap = mapReturned;
+            gameMap = mapReturned!;
         }
     }
 }

@@ -58,3 +58,22 @@ C:\Users\theyo\source\repos\GADE611-Part-2\Gade-1B-part-2\Gade 1B part 1\obj\Deb
 C:\Users\theyo\source\repos\GADE611-Part-2\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.genruntimeconfig.cache
 C:\Users\Herbz\Desktop\Vega\Semester 2\GADE6122\POE\Gade-1B-part-2\GADE6112-Part-2\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 C:\Users\Herbz\Desktop\Vega\Semester 2\GADE6122\POE\Gade-1B-part-2\GADE6112-Part-2\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.csproj.CopyComplete
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Gade 1B part 1.exe
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Gade 1B part 1.deps.json
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Gade 1B part 1.runtimeconfig.json
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Gade 1B part 1.dll
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\ref\Gade 1B part 1.dll
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Gade 1B part 1.pdb
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.csproj.AssemblyReference.cache
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\GADE6112_POE.Form1.resources
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.csproj.GenerateResource.cache
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.AssemblyInfoInputs.cache
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.AssemblyInfo.cs
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.csproj.CoreCompileInputs.cache
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.csproj.CopyComplete
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.dll
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\ref\Gade 1B part 1.dll
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.pdb
+C:\Users\theyo\OneDrive\Desktop\VegaSchoolStuff\GADE 1B\Part1\New GADE\GADE6112-Part-3\Gade-1B-part-2\Gade 1B part 1\obj\Debug\net6.0-windows\Gade 1B part 1.genruntimeconfig.cache

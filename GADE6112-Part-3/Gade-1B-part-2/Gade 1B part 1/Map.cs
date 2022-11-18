@@ -196,7 +196,7 @@ namespace GADE6112_POE
                         if ((items[k].X == x) && (items[k].Y == y))
                         {
                             Item item = items[k];
-                            items[k] = null;
+                            items[k] = null!;
                             return item;
                         }
                     }
